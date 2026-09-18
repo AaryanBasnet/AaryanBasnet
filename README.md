@@ -39,26 +39,6 @@
 | [**HomeScape**](https://github.com/AaryanBasnet/HomeScapeFrontend) — [backend](https://github.com/AaryanBasnet/HomeScapeBackend) · [frontend](https://github.com/AaryanBasnet/HomeScapeFrontend) | Property/home-services platform with a Java + PostgreSQL backend and a React frontend. |
 | [**Portfolio**](https://github.com/AaryanBasnet/handheld-console-portfolio) | My personal site, built and deployed with React/TypeScript on Vercel. |
 
-### 📊 GitHub stats
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AaryanBasnet&show_icons=true&theme=dark&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaryanBasnet&show_icons=true&theme=default&hide_border=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanBasnet&layout=compact&theme=dark&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanBasnet&layout=compact&hide_border=true" />
-  </picture>
-</p>
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AaryanBasnet&theme=dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=AaryanBasnet&hide_border=true" alt="streak stats" />
-  </picture>
-</p>
-
 ---
 
 <p align="center"><i>Open to collaborating on web & mobile projects — reach out via email above.</i></p>
